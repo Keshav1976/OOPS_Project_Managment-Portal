@@ -1,9 +1,5 @@
 **README**
 
-Name:keshav Bindlish
-Roll No.: 2022246
-Branch: CSD
-
 Project: Zootopia
 The project is based on making a program to manage the zoo system. the code comprises of classes Admin,Visitor,Owner,Animal,Amphibians,Reptile,Mammals, Discount,Attractions,Main.
 
